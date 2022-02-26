@@ -1,0 +1,48 @@
+select{
+    width: 70%;
+    height: 30px;
+    font-size: 20px;
+    font-family: Arial;
+    border: 2px ;
+    background-color: aqua;
+}
+select:hover{
+    margin: 2px;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
+}
+body{
+    font-size: 20px;
+}
+input{
+    width: 70%;
+    height: 30px;
+    font-size: 20px;
+    font-family: Arial;
+    border: 2px ;
+    background-color: aqua;
+}
+input:hover{
+    margin: 2px;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
+}
+textarea{
+    width: 70%;
+    height: 40%;
+    font-size: 20px;
+    font-family: Arial;
+    border: 2px ;
+    background-color: aqua;
+}
+textarea:hover{
+    margin: 2px;
+    box-shadow: 2px 2px 2px 2px rgb(0, 0, 0);
+}
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 25px;
+}
+button:hover{
+    background-color: black;
+    margin-bottom: 10px;
+}
